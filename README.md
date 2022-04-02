@@ -3,7 +3,7 @@
 
 ## Primeiros Passos (Passo 4)
 
-- **HTML Document:** [Ver]()
+- **HTML Document:** [Ver](https://github.com/VitorVassalo/PT05/index'.html)
 - **HTML Headings:** [Ver]()
 - **HTML Paragraphs:** [Ver]()
 - **HTML Links:** [Ver]()
